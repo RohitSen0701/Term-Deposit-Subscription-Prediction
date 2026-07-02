@@ -38,3 +38,24 @@ https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 - 21 input variables
 - Binary target variable (Subscription: Yes / No)
 - Real-world Portuguese bank marketing campaign data
+
+## 🎯 Objectives
+
+- Perform exploratory data analysis (EDA)
+- Clean and preprocess customer data
+- Handle missing and categorical values
+- Build predictive classification models
+- Compare model performance
+- Identify important factors influencing term deposit subscriptions
+- Generate actionable business insights for targeted marketing
+
+## 🛠️ Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- XGBoost
+- Jupyter Notebook
