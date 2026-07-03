@@ -105,9 +105,9 @@ Models were evaluated on accuracy, precision, recall, F1-score, and ROC-AUC, wit
 | SVM (Optuna-tuned)             | [X]      | [X]       | [X]    | [X]      | [X]     |
 | Decision Tree (Optuna-tuned)   | [X]      | [X]       | [X]    | [X]      | [X]     |
 | Balanced Random Forest (Optuna)| [X]      | [X]       | [X]    | [X]      | [X]     |
-| AdaBoost-style Ensemble        | [X]      | [X]       | [X]    | [X]      | [X]     |
-| Gradient Boosting (Optuna)     | [X]      | [X]       | [X]    | [X]      | [X]     |
-| **XGBoost (Optuna-tuned)**     | **[X]**  | **[X]**   | **[X]**| **[X]**  | **[X]** |
+| AdaBoost-style Ensemble        | 0.861      | 0.449       | 0.876    | 0.594      | 0.867     |
+| Gradient Boosting (Optuna)     | 0.867      | 0.465       | 0.929    | 0.619      | 0.895     |
+| **XGBoost (Optuna-tuned)**     | **0.863**  | **0.457**   | **0.937**| **0.615**  | **0.896** |
 | Voting Ensemble (Soft)         | 0.864      | 0.457       | 0.92    | 0.612      | 0.891    |
 
 **Best model:** [Name the model with the best recall/F1/ROC-AUC tradeoff] was selected as the final model based on [your reasoning — e.g., "highest ROC-AUC while maintaining strong recall on the minority class"].
