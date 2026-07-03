@@ -133,3 +133,21 @@ Download `bank-additional-full.csv` from the [UCI Bank Marketing dataset page](h
 ```bash
 jupyter notebook Term-Deposit-Prediction.ipynb
 ```
+## 🚀 Future Improvements
+
+- Deploy the model using Streamlit or Flask.
+- Integrate SHAP for model explainability.
+- Build an interactive dashboard for customer scoring.
+- Automate model retraining using new campaign data.
+
+## 👨‍💻 Author
+
+**Rohit Sen**
+
+M.Sc. Statistics, University of Delhi
+
+LinkedIn:
+https://www.linkedin.com/in/rohit-sen-50188b320/
+
+GitHub:
+https://github.com/RohitSen0701
