@@ -106,7 +106,7 @@ Models were evaluated on accuracy, precision, recall, F1-score, and ROC-AUC, wit
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/Term-Deposit-Subscription-Prediction.git
+git clone https://github.com/RohitSen0701/Term-Deposit-Subscription-Prediction.git
 cd Term-Deposit-Subscription-Prediction
 ```
 
