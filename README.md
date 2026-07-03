@@ -108,7 +108,7 @@ Models were evaluated on accuracy, precision, recall, F1-score, and ROC-AUC, wit
 | AdaBoost-style Ensemble        | [X]      | [X]       | [X]    | [X]      | [X]     |
 | Gradient Boosting (Optuna)     | [X]      | [X]       | [X]    | [X]      | [X]     |
 | **XGBoost (Optuna-tuned)**     | **[X]**  | **[X]**   | **[X]**| **[X]**  | **[X]** |
-| Voting Ensemble (Soft)         | [X]      | [X]       | [X]    | [X]      | [X]     |
+| Voting Ensemble (Soft)         | 0.864      | 0.457       | 0.92    | 0.612      | 0.891    |
 
 **Best model:** [Name the model with the best recall/F1/ROC-AUC tradeoff] was selected as the final model based on [your reasoning — e.g., "highest ROC-AUC while maintaining strong recall on the minority class"].
 
