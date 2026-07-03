@@ -5,6 +5,20 @@ A machine learning project that predicts whether a customer will subscribe to a 
 
 ---
 
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Business Problem](#-business-problem)
+- [Dataset](#-dataset)
+- [Methodology](#-methodology)
+- [Objectives](#-objectives)
+- [Tech Stack](#️-tech-stack)
+- [Results](#-results)
+- [Installation & Usage](#️-installation--usage)
+- [Future Improvements](#-future-improvements)
+- [Author](#-author)
+
+---
 
 ## 📌 Project Overview
 
@@ -23,9 +37,6 @@ The objective of this project is to build a predictive model that identifies cus
 - Increase conversion rates
 - Support data-driven marketing strategies
 
-## 📊 Dataset
-
-**Source:** UCI Machine Learning Repository
 
 ## 📊 Dataset
 
