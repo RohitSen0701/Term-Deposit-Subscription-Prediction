@@ -100,3 +100,25 @@ Models were evaluated on accuracy, precision, recall, F1-score, and ROC-AUC, wit
 | Voting Ensemble (Soft)         | [X]      | [X]       | [X]    | [X]      | [X]     |
 
 **Best model:** [Name the model with the best recall/F1/ROC-AUC tradeoff] was selected as the final model based on [your reasoning — e.g., "highest ROC-AUC while maintaining strong recall on the minority class"].
+
+
+## ⚙️ Installation & Usage
+
+**1. Clone the repository**
+```bash
+git clone https://github.com/<your-username>/Term-Deposit-Subscription-Prediction.git
+cd Term-Deposit-Subscription-Prediction
+```
+
+**2. Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+**3. Download the dataset**
+Download `bank-additional-full.csv` from the [UCI Bank Marketing dataset page](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) and place it in the project folder.
+
+**4. Run the notebook**
+```bash
+jupyter notebook Term-Deposit-Prediction.ipynb
+```
